@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently looking for a job
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...gabrieladuewa@outlook.com
